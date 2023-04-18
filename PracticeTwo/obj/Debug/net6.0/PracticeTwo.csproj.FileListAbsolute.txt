@@ -31,3 +31,7 @@ C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.genruntimeco
 C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\ref\PracticeTwo.dll
 C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.QA.json
 C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.UAT.json
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\Serilog.dll
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\Serilog.Sinks.Console.dll

@@ -1,7 +1,17 @@
 
 using Microsoft.OpenApi.Models;
+using Serilog;
+
+//create the logger and setup your sinks, filters and properties
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console(outputTemplate:"[{Timestamp:HH:mm:ss} {Level:u3}] {Message:lj}{NewLine}{Exception}")
+    .CreateBootstrapLogger();
+
 //Servidor
 var builder = WebApplication.CreateBuilder(args);
+
+//after create the builder - UseSerilog
+builder.Host.UseSerilog();
 
 // Add services to the container.
 

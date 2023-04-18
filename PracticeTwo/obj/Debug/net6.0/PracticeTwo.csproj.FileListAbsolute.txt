@@ -1,4 +1,3 @@
-C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.Development.json
 C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.json
 C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\PracticeTwo.exe
 C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\PracticeTwo.deps.json
@@ -30,3 +29,5 @@ C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\refint\PracticeTwo.dll
 C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.pdb
 C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.genruntimeconfig.cache
 C:\certificacion\practice2\PracticeTwo\obj\Debug\net6.0\ref\PracticeTwo.dll
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.QA.json
+C:\certificacion\practice2\PracticeTwo\bin\Debug\net6.0\appsettings.UAT.json
